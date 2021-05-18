@@ -1,10 +1,10 @@
 ### Hi 👋 I am Yew Chong. 
 
 Who i am 🤔 : 
-Generation Z (2000)
-Malaysian
-Currently pursuing Computer Science(Data engineering)
-University Technologi Malaysia (UTM) undergraduate student
+- Generation Z (2000s)
+- Malaysian
+- Currently pursuing Computer Science(Data engineering)
+- University Technologi Malaysia (UTM) undergraduate student
 
 
 Skills i acquire (not professional level) : 
