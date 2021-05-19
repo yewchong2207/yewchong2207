@@ -10,8 +10,8 @@ Who i am 🤔 :
 Skills i acquire (not professional level) : 
 - Web development(HTML,CSS,BOOTSTRAP3,BOOTSTRAP4,JavaScript,PHP)
 - DBMS & SQL (Mysql,SQL server) 
-- Programming skills (C++,Java)
-- Data visualization(R)
+- Programming skills(C++,Java)
+- Data Analysis(R)
 - Augmented Reality(ar.js)
 
 
